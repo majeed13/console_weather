@@ -10,7 +10,9 @@ Typing ‘myWeatherApp.exe Seattle’ into the command terminal when inside the 
 directory will result in the following information to be displayed:
 
 ####################
+
 Seattle, WA
+
 ####################
 
 Saturday 10/19/2019
